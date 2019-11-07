@@ -1,0 +1,100 @@
+sub $ -31
+set j 41
+set x -58
+run _test.1980.in
+set i -34
+mul 3 -62
+run _test.1981.in
+sub -57 q
+run _test.1997.in
+mul -6 u
+set u 77
+sub 66 18
+div n h
+sub x d
+mul e s
+run _test.2011.in
+mul 41 h
+mul a k
+run _test.2012.in
+mul c v
+mul z $
+add z a
+run _test.2013.in
+sub -89 32
+set k -96
+div o r
+sub u i
+sub g d
+run _test.2014.in
+run _test.2026.in
+add l 59
+mul c 52
+run _test.2027.in
+run _test.2050.in
+set z 74
+add j -3
+add $ i
+set e -27
+sub d 92
+add g j
+set o -41
+add i m
+mul p i
+mul i -23
+mul -51 z
+set i 17
+add c y
+set b $
+sub f j
+set w 17
+set j 51
+set t $
+sub n -43
+mul -16 y
+add n g
+set l 18
+div y d
+div u w
+add e -41
+set e 58
+run _test.2051.in
+sub a -100
+add m u
+add e 1
+add w -47
+div h -80
+run _test.2052.in
+add q a
+set q 52
+add $ b
+set b -83
+add 7 -25
+sub b n
+add -54 w
+run _test.2053.in
+run _test.2054.in
+add -69 d
+div b d
+sub i l
+mul -75 f
+div l h
+add p k
+run _test.2055.in
+div f 94
+run _test.2077.in
+sub e i
+set y -86
+set i -39
+mul g -45
+mul 55 y
+sub $ f
+div u n
+set q -14
+add j -62
+run _test.2101.in
+mul -83 31
+add i a
+set q -45
+set i -85
+div m h

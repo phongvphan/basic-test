@@ -1,0 +1,100 @@
+div $ 61
+mul u g
+add y g
+set x -12
+set z -59
+sub d f
+set n $
+set m 4
+add f -52
+mul t s
+run _test.4350.in
+div w c
+div m j
+run _test.4351.in
+sub -55 i
+run _test.4352.in
+sub c j
+div -34 m
+set f 12
+set p 78
+add -73 90
+mul 44 a
+add 5 c
+sub -21 w
+run _test.4353.in
+run _test.4354.in
+add i w
+add 94 j
+mul s w
+set g $
+set i -2
+mul e d
+mul j v
+div i w
+add -41 n
+div x h
+set d -14
+run _test.4355.in
+add -49 c
+run _test.4356.in
+div o j
+run _test.4357.in
+run _test.4358.in
+run _test.4359.in
+set c 0
+add w -10
+add w u
+set b 52
+run _test.4360.in
+set p 45
+run _test.4361.in
+add t h
+div s l
+div y -52
+sub a -45
+set h 82
+set o $
+set o -95
+sub z d
+sub $ a
+sub t l
+sub n j
+sub h i
+div j n
+sub w -100
+div 58 h
+set w -36
+set o 37
+add r d
+div x t
+sub j x
+div r o
+mul k 80
+mul r s
+add 95 m
+mul -23 c
+add o f
+div 84 77
+div 64 p
+set d 60
+div 53 j
+sub 41 l
+div z v
+add h h
+div -62 o
+sub 32 k
+add 98 h
+add 53 o
+div v v
+mul a l
+set m -80
+add 34 22
+sub g w
+run _test.4362.in
+sub x q
+run _test.4363.in
+mul x w
+run _test.4364.in
+run _test.4365.in
+div 80 j

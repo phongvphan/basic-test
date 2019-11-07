@@ -1,0 +1,100 @@
+run _test.24627.in
+run _test.24641.in
+set i -75
+mul -48 j
+set x 30
+add 41 22
+run _test.24661.in
+mul $ z
+set y -78
+sub z r
+add $ -62
+add e b
+add i $
+run _test.24680.in
+set q -34
+run _test.24681.in
+sub 17 n
+add q 35
+run _test.24705.in
+run _test.24720.in
+set t -19
+mul -5 x
+mul q r
+mul -28 b
+set k 82
+add 52 l
+run _test.24721.in
+mul d r
+sub x 80
+div c g
+mul p 20
+run _test.24722.in
+set l 27
+sub e 69
+div s d
+sub t -27
+div k $
+sub 89 u
+run _test.24734.in
+sub s 48
+sub 23 $
+mul -99 -37
+div o q
+run _test.24735.in
+run _test.24736.in
+mul 10 -12
+run _test.24756.in
+add 82 40
+add w t
+mul -87 n
+mul y i
+run _test.24757.in
+mul i 1
+add g -61
+add q o
+mul j b
+div u z
+div m l
+div e c
+mul m f
+div k i
+mul -16 $
+div 11 -36
+add h r
+run _test.24758.in
+sub j f
+div p s
+run _test.24777.in
+div -10 80
+sub j -75
+add n x
+add -60 -53
+run _test.24778.in
+set y 29
+add f -87
+run _test.24796.in
+run _test.24806.in
+set o 72
+div -22 d
+set p $
+run _test.24827.in
+add s b
+set g 11
+add m b
+mul 33 w
+run _test.24841.in
+sub g o
+mul 53 n
+mul -98 -99
+run _test.24865.in
+add t z
+run _test.24877.in
+run _test.24896.in
+set c -98
+sub k -88
+add q a
+mul b s
+set c -47
+sub -71 n
+mul 75 75
